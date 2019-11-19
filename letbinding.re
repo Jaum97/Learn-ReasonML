@@ -1,6 +1,10 @@
+//https://reasonml.github.io/docs/en/let-binding
+
 let greeting = "hello!";
 let score = 10;
 let newScore = 10 + score;
+
+let displayGreeting = true
 
 if (displayGreeting) {
   let message = "Enjoying the docs so far?";
